@@ -245,7 +245,7 @@ a {
   height: 100vh;
   width: 25%;
   text-align: right;
-  font-family: "Noto Serif CJK SC", serif
+  font-family: "Noto Serif CJK SC", serif;
   padding: 20px 0 50px 0;
   overflow: none;
   display: flex;
